@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/ImmersiveHome.unity
+    guid: cb9fa23ce22f54348a89f85aea549548
+  - enabled: 1
+    path: Assets/Scenes/Solar_Intro.unity
+    guid: 924a5fc01897e854eb77673ccce56a06
+  - enabled: 1
+    path: Assets/Scenes/SolarSystem.unity
+    guid: 61a44c5c5a90b1b419026b7fc468d5ba
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: eaaa87c8ffcd4054fa16f320167649e3,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ac3da86f7e60b2049bd11f0a4a7f694e,
+      type: 2}
